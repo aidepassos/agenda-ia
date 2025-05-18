@@ -1,0 +1,15 @@
+
+{
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1",
+      "serviceAccount": "gerenciador-calendario@gen-lang-client-0476740779.iam.gserviceaccount.com"
+    }
+  }
+}
