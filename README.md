@@ -151,4 +151,8 @@ Certifique-se de estar logado na Firebase CLI (`firebase login`) e ter seleciona
 
 Para mais detalhes sobre a arquitetura do projeto, componentes específicos e lógica dos fluxos de IA, por favor, consulte a [Documentação do Projeto](./docs/PROJECT_DOCUMENTATION.md).
 
+## Agradecimentos Especiais
+
+Ao Kleber Tiko pelo auxílio.
+A Alura pela oportunidade de crescimento no aprendizado.
     
